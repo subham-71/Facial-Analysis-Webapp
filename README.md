@@ -10,9 +10,8 @@ Upload an image and the machine learning model will be try to predict the name o
 Currently the model is able to recognize the following people :
 
 
-Robert Downey Jr
-
-Donald Trump
+* Robert Downey Jr
+* Donald Trump
 
 Barack Obama
 
