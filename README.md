@@ -12,33 +12,19 @@ Currently the model is able to recognize the following people :
 
 * Robert Downey Jr
 * Donald Trump
-
-Barack Obama
-
-Scarlett Johansson
-
-Elon Musk
-
-Lionel Messi
-
-Roger Federer
-
-Cristiano Ronaldo
-
-Salman Khan
-
-Sachin Tendulkar
-
-Leonardo DiCaprio
-
-Aamir Khan
-
-Angelina Jolie
-
-Joe Biden
-
-Tom Curise
-
+* Barack Obama
+* Scarlett Johansson
+* Elon Musk
+* Lionel Messi
+* Roger Federer
+* Cristiano Ronaldo
+* Salman Khan
+* Sachin Tendulkar
+* Leonardo DiCaprio
+* Aamir Khan
+* Angelina Jolie
+* Joe Biden
+* Tom Curise
 
 with an accuracy of 71.6009%
 
