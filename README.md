@@ -1,6 +1,6 @@
 # facial-analysis-webapp
 
-The app is deployed at https://face-analysis-webapp.herokuapp.com/ 
+The app is deployed at <br/> https://face-analysis-webapp.herokuapp.com/   <br /> http://facial-analysis-webapp.azurewebsites.net/
 
 
 # How it works ?
