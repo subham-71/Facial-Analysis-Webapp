@@ -29,7 +29,7 @@ SECRET_KEY = "django-insecure-^a79^8we4^+lwugkh1ashz&4-p%otsh8p*-e%g!s#pw&5tx(=^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["face-analysis-webapp.herokuapp.com"]
+ALLOWED_HOSTS = ["face-analysis-webapp.herokuapp.com","firstwebapp123xyz.azurewebsites.net"]
 
 
 # Application definition
