@@ -1,6 +1,6 @@
 # facial-analysis-webapp
 
-The app is deployed at <br/> https://face-analysis-webapp.herokuapp.com/   <br /> http://facial-analysis-webapp.azurewebsites.net/
+The app is deployed at <br/> https://web-production-aecd.up.railway.app/
 
 
 # How it works ?
