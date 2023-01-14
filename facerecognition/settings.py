@@ -29,7 +29,7 @@ SECRET_KEY = "django-insecure-^a79^8we4^+lwugkh1ashz&4-p%otsh8p*-e%g!s#pw&5tx(=^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["face-analysis-webapp.herokuapp.com","facial-analysis-webapp.azurewebsites.net",".vercel.app", ".now.sh"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -123,13 +123,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
 STATIC_URL = "static/"
-# STATICFILES_DIRS = [
-#     STATIC_DIR,
-# ]
-# STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
-
-STATICFILES_DIRS = os.path.join(BASE_DIR, 'static'),
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
+STATICFILES_DIRS = [
+    STATIC_DIR,
+]
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 # media
 MEDIA_ROOT = MEDIA_DIR
