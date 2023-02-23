@@ -1,6 +1,6 @@
-# facial-analysis-webapp
+# Facial-Analysis-Webapp
 
-The app is deployed at <br/> https://web-production-aecd.up.railway.app/
+The app is deployed at <br/> http://subhamxyz.pythonanywhere.com/
 
 
 # How it works ?
