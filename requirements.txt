@@ -1,6 +1,6 @@
 asgiref==3.4.1
 cycler==0.11.0
-Django==4.0
+Django
 db-sqlite3
 fonttools==4.28.5
 joblib==1.1.0
